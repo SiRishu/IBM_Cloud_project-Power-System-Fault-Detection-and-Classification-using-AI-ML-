@@ -1,0 +1,2 @@
+# IBM_Cloud_project-Power-System-Fault-Detection-and-Classification-using-AI-ML-
+This project was developed as part of the IBM SkillsBuild Internship in collaboration with Edunet Foundation. The objective was to design a machine learning model capable of detecting and classifying different types of faults in an electrical power distribution system, which is crucial for maintaining grid stability and operational efficiency.
